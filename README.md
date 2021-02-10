@@ -15,11 +15,10 @@ Program yang kami buat adalah tentang Travel Tiket,  Merupakan program yang digu
 <img src = "https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/blob/main/Class%20Diagram%20Travel%20Tiket.jpeg">
 
 ## Implementasi OOP Javascript pada program ini :
-1. Constructor pada class buku
-2. Objek buku pada method tambah buku
-3. Prototype pada edit buku
-4. class peminjaman terdapat modul Constructor
-5. Terdapat Objek baru dataMhs pada class peminjaman
+1. Function 
+2. Constructor / Object Constructor
+3. Object 
+4. Object Patttern
 
 
 ## Output Program 
