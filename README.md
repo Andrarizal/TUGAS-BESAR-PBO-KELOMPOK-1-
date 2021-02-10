@@ -12,7 +12,7 @@ Program yang kami buat adalah tentang Travel Tiket,  Merupakan program yang digu
 
 ## Class Diagram
 
-<img src = "https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/blob/main/Class%20Diagram%20Travel%20Tiket.jpeg">
+<img src = "https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/blob/main/TUBES%20PBO%20CLASS%20DIAGRAM%20F.PNG">
 
 ## Implementasi OOP Javascript pada program ini :
 1. Function 
