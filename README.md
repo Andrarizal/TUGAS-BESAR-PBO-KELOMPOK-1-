@@ -11,13 +11,13 @@ S1S303B Software Engineering
 ## Latar Belakang
 Dimasa pandemi saat ini banyak orang yang tidak memiliki perkejaan. banyak pula yang sulit untuk bepergian, maka dari itu saya berserta tim ingin mewujudkan program tiket travel. Dilandasi dengan kasih sayang serta cinta yang tulus. kami hadirkan program ini dengan hati untuk mewujudkan masyarakat hidup aman damai sentosa sehingga mudah untuk melaksanakan aktivitas diluar rumah dengan aman nyaman dan tentram.
 
-##Fitur
+## Fitur
 kami memiliki beberapa fitur yang bisa anda dapatkan :
 1. tambah data penumpang 
 2. Menginput order yang akan anda pesan
 3. cetak data semua penumpang
 
-##Tujuan
+## Tujuan
 1. Mempermudah masyarakat dalam memesan tiket travel
 2. Efisiensi dalam penggunaan waktu, sehingga tidak ada waktu pengantrian saat pemesanan
 3. Harga yang terjangkau. sehingga masyarakat dapat bepergian tanpa kesulitan dengan biaya mahal
@@ -31,7 +31,7 @@ Program yang kami buat adalah tentang Travel Tiket,  Merupakan program yang digu
 
 ## Implementasi OOP Javascript pada program ini :
 1. Function 
-2. Constructor / Object Constructor
+2. Constructor 
 3. Object 
 4. Object Patttern
 
