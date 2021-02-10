@@ -21,7 +21,7 @@ Program yang kami buat adalah tentang Travel Tiket,  Merupakan program yang digu
 4. class peminjaman terdapat modul Constructor
 5. Terdapat Objek baru dataMhs pada class peminjaman
 
-<img src = "link giff">
+<img src = "https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/blob/main/Implementasi-Program.gif">
 
 ## Package Yang Digunakan
 
