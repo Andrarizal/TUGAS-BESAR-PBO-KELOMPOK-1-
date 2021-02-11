@@ -3,7 +3,7 @@
 
 ## Anggota Kelompok
 S1S303B Software Engineering
-1. Andra Aulia Rizaldy - 19104057
+1. Andra Aulia Rizaldy - 19104062
 2. Mohammad Fikri Nur Syahbani - 19104055
 3. Rachma Wukir Purwitasari - 19104065
 
