@@ -40,11 +40,12 @@ Program yang kami buat adalah tentang Travel Tiket,  Merupakan program yang digu
 <img src = "https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/blob/main/Implementasi-Program.gif">
 
 ## Package Yang Digunakan
+https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/tree/main/TICKET%20TRAVEL
 
 
 ## Demo Project & Video Penjelasan
 
 
 
-## Demo Link Youtube
+## Link Youtube
 https://www.youtube.com/watch?v=Lhfh9dDhexA&feature=youtu.be
