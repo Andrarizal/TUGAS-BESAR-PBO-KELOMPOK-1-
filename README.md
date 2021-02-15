@@ -11,6 +11,13 @@ S1S303B Software Engineering
 ## Latar Belakang
 Dimasa pandemi saat ini banyak orang yang tidak memiliki perkejaan. banyak pula yang sulit untuk bepergian, maka dari itu saya berserta tim ingin mewujudkan program tiket travel. Dilandasi dengan kasih sayang serta cinta yang tulus. kami hadirkan program ini dengan hati untuk mewujudkan masyarakat hidup aman damai sentosa sehingga mudah untuk melaksanakan aktivitas diluar rumah dengan aman nyaman dan tentram.
 
+## Yang dibutuhkan :
+1. Node Js
+2. CodeRunner
+3. Visual Studio Code
+4. Repl.it
+5. Github
+
 ## Fitur
 kami memiliki beberapa fitur yang bisa anda dapatkan :
 1. tambah data penumpang 
@@ -35,6 +42,15 @@ Program yang kami buat adalah tentang Travel Tiket,  Merupakan program yang digu
 3. Object 
 4. Object Patttern
 
+## Cara penggunaan :
+1. Silahkan Clone terlebih dahulu repo ini
+2. Run program dengan VSCode atau Repl.it
+3. Akan terbuka terminal yang mengarah ke project (VSCode)
+4. Pilih 'Tambah Penumpang', lalu isikan data diri anda 
+5. Pilih order lalu memilih tujuan dan harga
+6. Masukan Id Penumpang, beserta banyaknya penumpang
+8. Pilih 'Cetak ' untuk melihat data siapa saja yang memesan
+9. Pilih 'Keluar' untuk keluar dari program
 
 ## Output Program 
 <img src = "https://github.com/Andrarizal/TUGAS-BESAR-PBO-KELOMPOK-1-/blob/main/Implementasi-Program.gif">
