@@ -2,7 +2,7 @@
 ![](https://user-images.githubusercontent.com/43981051/103869569-12f62000-50fd-11eb-86ef-657fdb81da3f.png)
 
 ## Anggota Kelompok
-S1S303B Software Engineering
+       S1SE03B Software Engineering
 1. Andra Aulia Rizaldy - 19104062
 2. Mohammad Fikri Nur Syahbani - 19104055
 3. Rachma Wukir Purwitasari - 19104065
