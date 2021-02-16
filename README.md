@@ -1,15 +1,18 @@
 # Tugas Besar Praktikum Pemrograman Berbasis Objek
 ![](https://user-images.githubusercontent.com/43981051/103869569-12f62000-50fd-11eb-86ef-657fdb81da3f.png)
 
-## Anggota Kelompok
+## Anggota Kelompok 1
        S1SE03B Software Engineering
-1. Andra Aulia Rizaldy - 19104062
+1. Andra Aulia Rizaldy - 19104062     
 2. Mohammad Fikri Nur Syahbani - 19104055
 3. Rachma Wukir Purwitasari - 19104065
 
+## Kontribusi Team
+  Berawal dari ide yang sangat gemilang Andra Aulia Rizaldy, menghasilkan sebuah program yang dirancang bersama tim Kelompok 1. Dilanjutkan membuat program oleh Mohammad Fikri Nur Syahbani, dan disempurnakan oleh Andra Aulia Rizaldy. Banyak sekali halangan pada saat membuat program, namun tak menyurutkan kami dalam menyelesaikan misi kami untuk menjadi yang terbaik. Setelah  program berhasil kemudian membuat Class Diagram oleh Andra Aulia Rizaldy di bantu Rachma Wukir Purwitasari. Setelah elemen elemen itu selesai, kami membuat dokumentasi youtube dan Github bersama sama. setelah itu Andra Aulia Rizaldy mengumpulkan semua elemen elemen itu kedalam Github. Dan disinilah Publikasi Kelompok kami di bentuk. Jika di presentasikan maka Andra Aulia Rizaldy 40%, Mohammad Fikri Nur Syahbani 30%, Rachma Wukir Purwitasari 30%. 
+
 
 ## Latar Belakang
-Dimasa pandemi saat ini banyak orang yang tidak memiliki perkejaan. banyak pula yang sulit untuk bepergian, maka dari itu saya berserta tim ingin mewujudkan program tiket travel. Dilandasi dengan kasih sayang serta cinta yang tulus. kami hadirkan program ini dengan hati untuk mewujudkan masyarakat hidup aman damai sentosa sehingga mudah untuk melaksanakan aktivitas diluar rumah dengan aman nyaman dan tentram.
+Dimasa pandemi saat ini banyak orang yang tidak memiliki pekerjaan. banyak pula yang sulit untuk bepergian, maka dari itu saya berserta tim ingin mewujudkan program tiket travel. Selain mempermudah dalam proses pembayaran dan proses perjalanan program ini juga dilandasi dengan kasih sayang serta cinta yang tulus untuk masyarakat. kami hadirkan program ini dengan hati untuk mewujudkan masyarakat hidup aman, damai, sentosa sehingga mudah untuk melaksanakan aktivitas diluar rumah dengan aman nyaman dan tentram. 
 
 ## Yang dibutuhkan :
 1. Node Js
